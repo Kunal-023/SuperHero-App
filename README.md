@@ -1,4 +1,3 @@
-# SuperHero-App
 SuperHero App
 
 The SuperHero App is a web application that allows users to search for superheroes and retrieve information about them using the SuperHero API. The app is built using HTML, CSS, and JavaScript.
