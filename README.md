@@ -5,7 +5,7 @@ The SuperHero App is a web application that allows users to search for superhero
 
 Features:
 
--Search for superheroes by name
--Display superhero details including name, image, and power statistics
--Get a random superhero
--User-friendly interface with a clean and simple design
+-Search for superheroes by name.
+-Display superhero details including name, image, and power statistics.
+-Get a random superhero.
+-User-friendly interface with a clean and simple design.
