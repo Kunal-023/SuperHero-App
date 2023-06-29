@@ -1,0 +1,84 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(19,19,25);
+    margin: 0;
+    padding: 0;
+  }
+  
+  .search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .serinp {
+    padding: 10px 20px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    margin-top: 5px;
+  }
+  
+  .serbut {
+    padding: 10px 20px;
+    margin-left: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .ran {
+    padding: 10px 20px;
+    margin-left: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  .hn {
+    margin-bottom: 20px;
+    background-color: #151f30;
+    text-align: center;
+    padding-left: 20px;
+    color: white;
+    border-radius: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+  .himg img {
+    height :360px;
+    border-radius: 20px;
+  }
+  .himg{
+    text-align: center;
+  }
+  .st{
+    text-align: center;
+    background-color: #151f30;
+    color: yellowgreen;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10%;
+  }
+  .st h2{
+    color: red;
+  }
+  .topic{
+    background-color: gold;
+    text-align: center;
+    margin-left :20%;
+    margin-right: 20%;
+    height: 30px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+  }
